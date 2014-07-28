@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 9d44eda0ef34d094da2529602d061f3c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TicTac9000_TextureAtlas
+    21300002: BG
+    21300004: Board_Game
+    21300006: Board_Score
+    21300008: Button_Replay
+    21300010: Button_Settings
+    21300012: Button_Home
+    21300014: Screw_01
+    21300016: Screw_02
+    21300018: Screw_03
+    21300020: Screw_04
+    21300022: Screw_05
+    21300024: Logotype
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BG
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 640
+        height: 960
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Board_Game
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1434
+        width: 593
+        height: 599
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Board_Score
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1277
+        width: 593
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Replay
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1163
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Settings
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1163
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Button_Home
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1163
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screw_01
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1209
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screw_02
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1209
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screw_03
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1209
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screw_04
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1211
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Screw_05
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1211
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Logotype
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1074
+        width: 317
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
