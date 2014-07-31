@@ -43,4 +43,15 @@ public class ButtonPress : MonoBehaviour {
 		buttonAnim.SetTrigger ("released");
 	}
 
+	public void ResetOwner(){
+	
+		for (int i = 0; i < gm.brickScripts.Count; i++) {
+
+			Brick b = gm.brickScripts[i].GetComponent<Brick>();
+			b.owner = 0;
+
+				}
+
+	}
+
 }
